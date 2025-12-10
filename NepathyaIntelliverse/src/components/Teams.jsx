@@ -12,70 +12,78 @@ const team = [
   },
   {
     name: "Deepak Ghimire",
-    role: "ML Developer",
+    role: "AI Engineer",
     github: "https://github.com/Dipakxettri",
     phone: "tel:+9779800000001",
     email: "mailto:example2@mail.com",
   },
   {
     name: "Member 3",
-    role: "Frontend Developer",
+        role: "AI Engineer",
     github: "https://github.com/",
     phone: "tel:+9779800000002",
     email: "mailto:example3@mail.com",
   },
   {
     name: "Sittal Bashyal",
-    role: "Backend Developer",
+        role: "AI Engineer",
+
     github: "https://github.com/",
     phone: "tel:+9779800000003",
     email: "mailto:example4@mail.com",
   },
   {
     name: "Rajiv Chaudhary",
-    role: "Data Scientist",
+        role: "AI Engineer",
+
     github: "https://github.com/",
     phone: "tel:+9779800000004",
     email: "mailto:example5@mail.com",
   },
   {
     name: "Siddheshwar Gupta",
-    role: "Researcher",
+        role: "AI Engineer",
+
     github: "https://github.com/",
     phone: "tel:+9779800000005",
     email: "mailto:example6@mail.com",
   },
   {
     name: "Gaurav Gautam",
-    role: "UI/UX Designer",
+        role: "AI Engineer",
+
     github: "https://github.com/",
     phone: "tel:+9779800000006",
     email: "mailto:example7@mail.com",
   },
   {
     name: "Rohit",
-    role: "DevOps Engineer",
+        role: "AI Engineer",
+
     github: "https://github.com/",
     phone: "tel:+9779800000007",
     email: "mailto:example8@mail.com",
   },
   {
     name: "Sandesh Aryal",
-    role: "Cloud Engineer",
+        role: "AI Engineer",
+
     github: "https://github.com/",
     phone: "tel:+9779800000008",
     email: "mailto:example9@mail.com",
   },
   {
     name: "Anmol",
-    role: "QA Engineer",
+        role: "AI Engineer",
+
     github: "https://github.com/",
     phone: "tel:+9779800000009",
     email: "mailto:example10@mail.com",
   },
   {
     name: "Member 11",
-    role: "Team Lead",
+        role: "AI Engineer",
+
     github: "https://github.com/",
     phone: "tel:+9779800000010",
     email: "mailto:example11@mail.com",

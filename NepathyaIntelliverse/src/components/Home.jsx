@@ -85,11 +85,7 @@ export default function Home() {
         initial={{ opacity: 0, x: -50 }}
         animate={{ opacity: 1, x: 0 }}
         transition={{ delay: 2, duration: 1 }}
-        className="
-    fixed z-50 text-cyan-400 font-medium
-    text-lg top-40 left-10        /* mobile */
-    md:text-3xl md:top-40 md:left-10  /* laptop/desktop */
-  "
+        className="fixed z-50 text-cyan-400 font-medium text-3xl top-40 left-20 hidden md:block"
       >
         Powered by Nepathya College
       </motion.div>

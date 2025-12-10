@@ -5,27 +5,27 @@ import { Github, Phone, Mail } from "lucide-react";
 const team = [
   {
     name: "Livesh Jha",
-    role: "AI Engineer",
+    role: "Team Lead",
     github: "https://github.com/",
     phone: "tel:+9779800000000",
     email: "mailto:example1@mail.com",
   },
   {
-    name: "Deepak Ghimire",
+    name: "Shittal Bashyal",
     role: "AI Engineer",
     github: "https://github.com/Dipakxettri",
     phone: "tel:+9779800000001",
     email: "mailto:example2@mail.com",
   },
   {
-    name: "Member 3",
+    name: "Sandesh Aryal",
         role: "AI Engineer",
     github: "https://github.com/",
     phone: "tel:+9779800000002",
     email: "mailto:example3@mail.com",
   },
   {
-    name: "Sittal Bashyal",
+    name: "Deepak Ghimire",
         role: "AI Engineer",
 
     github: "https://github.com/",
@@ -57,7 +57,7 @@ const team = [
     email: "mailto:example7@mail.com",
   },
   {
-    name: "Rohit",
+    name: "Samip Sharma",
         role: "AI Engineer",
 
     github: "https://github.com/",
@@ -65,7 +65,7 @@ const team = [
     email: "mailto:example8@mail.com",
   },
   {
-    name: "Sandesh Aryal",
+    name: "Rohit Neupana",
         role: "AI Engineer",
 
     github: "https://github.com/",
@@ -73,7 +73,7 @@ const team = [
     email: "mailto:example9@mail.com",
   },
   {
-    name: "Anmol",
+    name: "Puskar Thapa",
         role: "AI Engineer",
 
     github: "https://github.com/",
@@ -81,9 +81,8 @@ const team = [
     email: "mailto:example10@mail.com",
   },
   {
-    name: "Member 11",
-        role: "AI Engineer",
-
+    name: "Anmol Thaiba",
+    role: "AI Engineer",
     github: "https://github.com/",
     phone: "tel:+9779800000010",
     email: "mailto:example11@mail.com",

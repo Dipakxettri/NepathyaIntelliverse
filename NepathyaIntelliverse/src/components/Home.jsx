@@ -82,13 +82,20 @@ export default function Home() {
 
       {/* Top-left text */}
       <motion.div
-  initial={{ opacity: 0, x: -50 }}
-  animate={{ opacity: 1, x: 0 }}
-  transition={{ delay: 2, duration: 1 }} // wait 2 seconds, animate in 1 second
-  className="fixed top-60 left-40 z-50 text-cyan-400 font-medium text-2xl md:text-3xl"
->
-  Powered by Nepathya College
-</motion.div>
+        initial={{ opacity: 0, x: -50 }}
+        animate={{ opacity: 1, x: 0 }}
+        transition={{ delay: 2, duration: 1 }}
+        className="
+    fixed z-50 text-cyan-400 font-medium
+    text-xl top-4 left-4         /* mobile */
+    md:text-3xl md:top-40 md:left-10  /* laptop/desktop */
+  "
+      >
+        Powered by Nepathya College
+      </motion.div>
+
+
+
 
 
       {/* Main content */}

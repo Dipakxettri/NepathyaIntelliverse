@@ -18,7 +18,7 @@ export default function About() {
         >
           <img
             // src="/logo.png"
-            alt="AI Illustration"
+            alt="Logo"
             className="w-[350px] md:w-[450px] lg:w-[550px]"
           />
         </motion.div>

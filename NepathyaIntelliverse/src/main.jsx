@@ -9,6 +9,7 @@ import Home from "./components/Home.jsx";
 import Teams from "./components/Teams.jsx";
 import About from "./components/About.jsx";
 import SignUp from "./components/SignUp.jsx";
+import ChatBot from "./components/ChatBox.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
@@ -21,6 +22,7 @@ createRoot(document.getElementById("root")).render(
           element={
             <>
               {/* <App2 /> */}
+              <ChatBot />
               <Home />
               <About />
               <Teams />

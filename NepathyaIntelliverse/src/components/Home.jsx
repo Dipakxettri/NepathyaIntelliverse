@@ -81,14 +81,14 @@ export default function Home() {
       <canvas ref={canvasRef} className="absolute top-0 left-0 w-full h-full z-0" />
 
       {/* Top-left text */}
-      <motion.div
+      {/* <motion.div
         initial={{ opacity: 0, x: -50 }}
         animate={{ opacity: 1, x: 0 }}
         transition={{ delay: 2, duration: 1 }}
-        className="fixed z-50 text-cyan-400 font-medium text-3xl top-40 left-20 hidden md:block"
+        className="relative z-50 text-cyan-400 font-medium text-3xl top-20 left-20 hidden md:block"
       >
         Powered by Nepathya College
-      </motion.div>
+      </motion.div> */}
 
 
 

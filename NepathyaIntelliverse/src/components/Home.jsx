@@ -87,7 +87,7 @@ export default function Home() {
         transition={{ delay: 2, duration: 1 }}
         className="
     fixed z-50 text-cyan-400 font-medium
-    text-xl top-4 left-4         /* mobile */
+    text-lg top-4 left-4         /* mobile */
     md:text-3xl md:top-40 md:left-10  /* laptop/desktop */
   "
       >

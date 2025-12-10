@@ -13,52 +13,52 @@ const team = [
   {
     name: "Shittal Bashyal",
     role: "AI Engineer",
-    github: "https://github.com/Dipakxettri",
+    github: "https://github.com/sittal-basyal",
     phone: "tel:+9779800000001",
     email: "mailto:example2@mail.com",
   },
   {
     name: "Sandesh Aryal",
-        role: "AI Engineer",
-    github: "https://github.com/",
+    role: "AI Engineer",
+    github: "https://github.com/Sandesh-91",
     phone: "tel:+9779800000002",
     email: "mailto:example3@mail.com",
   },
   {
     name: "Deepak Ghimire",
-        role: "AI Engineer",
+    role: "AI Engineer",
 
-    github: "https://github.com/",
+    github: "https://github.com/Dipakxettri",
     phone: "tel:+9779800000003",
     email: "mailto:example4@mail.com",
   },
   {
     name: "Rajiv Chaudhary",
-        role: "AI Engineer",
+    role: "AI Engineer",
 
-    github: "https://github.com/",
+    github: "https://github.com/Geeky-Rajiv27",
     phone: "tel:+9779800000004",
     email: "mailto:example5@mail.com",
   },
   {
     name: "Siddheshwar Gupta",
-        role: "AI Engineer",
+    role: "AI Engineer",
 
-    github: "https://github.com/",
+    github: "https://github.com/Ishwar-gupta",
     phone: "tel:+9779800000005",
     email: "mailto:example6@mail.com",
   },
   {
     name: "Gaurav Gautam",
-        role: "AI Engineer",
+    role: "AI Engineer",
 
-    github: "https://github.com/",
+    github: "https://github.com/gauravgautam6",
     phone: "tel:+9779800000006",
     email: "mailto:example7@mail.com",
   },
   {
     name: "Samip Sharma",
-        role: "AI Engineer",
+    role: "AI Engineer",
 
     github: "https://github.com/",
     phone: "tel:+9779800000007",
@@ -66,15 +66,15 @@ const team = [
   },
   {
     name: "Rohit Neupana",
-        role: "AI Engineer",
+    role: "AI Engineer",
 
-    github: "https://github.com/",
+    github: "https://github.com/rohit-496",
     phone: "tel:+9779800000008",
     email: "mailto:example9@mail.com",
   },
   {
     name: "Puskar Thapa",
-        role: "AI Engineer",
+    role: "AI Engineer",
 
     github: "https://github.com/",
     phone: "tel:+9779800000009",

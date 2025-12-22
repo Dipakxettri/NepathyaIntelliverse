@@ -1,7 +1,6 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-
 import "./index.css";
 import App2 from "./App2.jsx";
 import NavBar from "./components/NavBar.jsx";
@@ -10,6 +9,9 @@ import Teams from "./components/Teams.jsx";
 import About from "./components/About.jsx";
 import SignUp from "./components/SignUp.jsx";
 import ChatBot from "./components/ChatBox.jsx";
+import ResearchSection from "./components/ResearchSection.jsx";
+import GallerySection from "./components/GallerySection.jsx";
+import ContactFooter from "./components/ContactFooter.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
@@ -21,11 +23,14 @@ createRoot(document.getElementById("root")).render(
           path="/"
           element={
             <>
-              {/* <App2 /> */}
+              <App2 />
               <ChatBot />
               <Home />
               <About />
+              <GallerySection />
+              <ResearchSection />
               <Teams />
+              <ContactFooter />
             </>
           }
         />
@@ -35,4 +40,5 @@ createRoot(document.getElementById("root")).render(
       </Routes>
     </BrowserRouter>
   </StrictMode>
+
 );

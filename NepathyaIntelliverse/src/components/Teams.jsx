@@ -11,11 +11,11 @@ const team = [
     email: "mailto:example1@mail.com",
   },
   {
-    name: "Shittal Bashyal",
+    name: "Sittal Basyal",
     role: "AI Engineer",
     github: "https://github.com/sittal-basyal",
     phone: "tel:+9779800000001",
-    email: "mailto:example2@mail.com",
+    email: "bashyalshittal@gmail.com",
   },
   {
     name: "Sandesh Aryal",
@@ -59,32 +59,25 @@ const team = [
   {
     name: "Samip Sharma",
     role: "AI Engineer",
-
     github: "https://github.com/",
-    phone: "tel:+9779800000007",
     email: "mailto:example8@mail.com",
   },
   {
-    name: "Rohit Neupana",
+    name: "Rohit Nyaupane",
     role: "AI Engineer",
-
     github: "https://github.com/rohit-496",
-    phone: "tel:+9779800000008",
-    email: "mailto:example9@mail.com",
+    email: "rohitbutwal1@gmail.com",
   },
   {
     name: "Puskar Thapa",
     role: "AI Engineer",
-
     github: "https://github.com/",
-    phone: "tel:+9779800000009",
     email: "mailto:example10@mail.com",
   },
   {
     name: "Anmol Thaiba",
     role: "AI Engineer",
     github: "https://github.com/",
-    phone: "tel:+9779800000010",
     email: "mailto:example11@mail.com",
   },
 ];

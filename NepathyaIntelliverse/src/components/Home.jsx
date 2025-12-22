@@ -73,7 +73,7 @@ export default function Home() {
       cancelAnimationFrame(animationFrameId);
       window.removeEventListener("resize", handleResize);
     };
-  }, []);
+  }, []);  
 
   return (
     <div className="relative min-h-screen bg-black overflow-hidden flex items-center justify-center px-4">
@@ -89,10 +89,6 @@ export default function Home() {
       >
         Powered by Nepathya College
       </motion.div> */}
-
-
-
-
 
       {/* Main content */}
       <motion.div
@@ -124,4 +120,5 @@ export default function Home() {
       </motion.div>
     </div>
   );
+
 }
